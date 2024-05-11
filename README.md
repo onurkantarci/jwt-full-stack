@@ -1,5 +1,9 @@
 JWT Authentication Full Stack Setup
-This guide outlines the steps to set up a full-stack application with JWT authentication. This setup includes both the frontend and backend components.
+<br>
+This guide outlines the steps to set up a full-stack application with JWT authentication.
+<br>
+This setup includes both the frontend and backend components.
+<br>
 
 Backend Setup
 
